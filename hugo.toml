@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/gpetoukhov/gpetoukhov.github.io.git'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'nostyleplease'
